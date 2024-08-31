@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="005fc01e-b8d0-462b-9f16-a7f87d1f9e06" name="Changes" comment="revert">
+      <change beforePath="$PROJECT_DIR$/../bloc_ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../bloc_ecommerce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_login_navigation_route" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_login_navigation_route" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../food_delivery_ui" beforeDir="false" afterPath="$PROJECT_DIR$/../food_delivery_ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoe_store" beforeDir="false" afterPath="$PROJECT_DIR$/../shoe_store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_app" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_app" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2lQ323CIbcpBU8lrzs1Qx73F5xE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/FlutterProjects/bloc_practices",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="005fc01e-b8d0-462b-9f16-a7f87d1f9e06" name="Changes" comment="" />
+      <created>1725098263664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725098263664</updated>
+    </task>
+    <task id="LOCAL-00001" summary="revert">
+      <option name="closed" value="true" />
+      <created>1725099450149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725099450149</updated>
+    </task>
+    <task id="LOCAL-00002" summary="revert">
+      <option name="closed" value="true" />
+      <created>1725099508779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725099508779</updated>
+    </task>
+    <task id="LOCAL-00003" summary="revert">
+      <option name="closed" value="true" />
+      <created>1725099525718</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725099525718</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="revert" />
+    <option name="LAST_COMMIT_MESSAGE" value="revert" />
+  </component>
+</project>
